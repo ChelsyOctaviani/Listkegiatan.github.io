@@ -7,7 +7,7 @@
 }
 body{
     height: 100vh;
-    background: green;
+    background-image:url('jaemin.jpeg');
 }
 .container{
     width: 40%;
